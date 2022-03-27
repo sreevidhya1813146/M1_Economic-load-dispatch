@@ -1,2 +1,2 @@
-# M1_Economic-load-dispatch
-Naming convention : "To understand the fundamentals of economic load dispatch and derive solution using classical method with and without losses."
+# M1_Matrix calculator
+Naming convention : "A set of numbers arranged in rows and columns is called a matrix. In other words it is an rectangular array of numbers having its applications in engineering, physics, economics, and statistics as well as in various branches of mathematics. Here this project facilitates some simple mathematical operations between matrices."
